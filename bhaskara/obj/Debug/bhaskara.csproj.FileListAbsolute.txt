@@ -1,0 +1,10 @@
+C:\Users\User\Documents\bhaskara\bhaskara\bin\Debug\bhaskara.exe.config
+C:\Users\User\Documents\bhaskara\bhaskara\bin\Debug\bhaskara.exe
+C:\Users\User\Documents\bhaskara\bhaskara\bin\Debug\bhaskara.pdb
+C:\Users\User\Documents\bhaskara\bhaskara\obj\Debug\bhaskara.csproj.AssemblyReference.cache
+C:\Users\User\Documents\bhaskara\bhaskara\obj\Debug\bhaskara.Form1.resources
+C:\Users\User\Documents\bhaskara\bhaskara\obj\Debug\bhaskara.Properties.Resources.resources
+C:\Users\User\Documents\bhaskara\bhaskara\obj\Debug\bhaskara.csproj.GenerateResource.cache
+C:\Users\User\Documents\bhaskara\bhaskara\obj\Debug\bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\bhaskara\bhaskara\obj\Debug\bhaskara.exe
+C:\Users\User\Documents\bhaskara\bhaskara\obj\Debug\bhaskara.pdb
